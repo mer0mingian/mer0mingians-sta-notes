@@ -2,7 +2,7 @@
 
 ## Wie funktionieren Überzeungen und Entschlossenheit?
 
-Charakterverbesserungen in STA funktionieren entweder über Auszeichnungen die Attributsboni oder zusätzliche Talente freischalten oder  über Charakterentwicklung, die Dich die während "Meilensteine" in beliebige Charactere(, Schiffe, Häuser, ...) investieren lässt. Ausze
+Charakterverbesserungen in STA funktionieren entweder über Auszeichnungen, die Attributsboni oder zusätzliche Talente freischalten, oder über Charakterentwicklung, die Dich die während "Meilensteine" in beliebige Charactere(, Schiffe, Häuser, ...) investieren lässt. Ausze
 
 ### Überzeugungen (aka Values) anwenden
 Überzeugungen müssen im Zusammenhang mit einer Mission angewendet werden, damit Dein Charater sich entwickeln kann. Dabei geht es [weniger darum Meilenstein-Währung]((https://fjordsofafrica.blogspot.com/2018/03/clarifying-values-directives-and.html)) (iSv Erfahrungspunkten) zu erwirtschaften, sondern darum, dass ein Charakter aus seinen Erfahrungen lernt und dabei seine Überzeugungen ändert. Die Erfassung dieser Veränderung findet über das persönliche Logbuch statt und ist nicht auf dem Charakterbogen sichtbar. Diese Entwicklung wird dann belohnt.
