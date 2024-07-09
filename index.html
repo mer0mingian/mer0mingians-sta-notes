@@ -79,9 +79,9 @@
 					<div>
 						<div class="panel-3">03<span class="hop">-111968</span></div>
 						<nav id="secondary-nav">
-							<a href="">BUTTON-04</a>
-							<a href="">BUTTON-05</a>
-							<a href="">BUTTON-06</a>
+							<a href="">04-095742</a>
+							<a href="">05-654792</a>
+							<a href="">06-996421</a>
 						</nav>
 						<div class="panel-4">04<span class="hop">-41969</span></div>
 						<div class="panel-5">05<span class="hop">-1701D</span></div>
@@ -104,33 +104,29 @@
 
 						<!-- Start your content here. -->
 						
-<!--
-							<h1>Hello</h1>
-							<h2>LCARS Ultra &#149; Picard Theme &#149; Standard Layout</h2>
-							<h3>Welcome to the 25th Century!</h3>
-							<p>Replace this content with your own.</p>
-							<p>Live long and prosper.</p> 
--->						
+						<!--
+						<h1>Hello</h1>
+						<h2>LCARS Ultra &#149; Picard Theme &#149; Standard Layout</h2>
+						<h3>Welcome to the 25th Century!</h3>
+						<p>Replace this content with your own.</p>
+						<p>Live long and prosper.</p> 
+						-->						
+
 							<div id="content"></div>
 							<script>
 								fetch('content.md')
-									.then(response => response.text())
-									.then(text => {
-										var converter = new showdown.Converter();
-										document.getElementById('content').innerHTML = converter.makeHtml(text);
-									});
+								.then(response => response.text())
+								.then(text => {
+									var converter = new showdown.Converter();
+									document.getElementById('content').innerHTML = converter.makeHtml(text);
+								});
 							</script>
-												
+							
 						<!-- End content area -->						
 
 						<footer>
 							<div class="footer-inside">
 								<div class="footer-text">
-
-									<p> <!-- Your copyright information is only a suggestion. You can also choose to delete this paragraph. -->
-										Content Copyright &#169; 2023 *replace this text with your site's name or url*
-									</p>
-
 									<p>	<!-- This paragraph must not be removed. -->
 										LCARS Inspired Website Template by <a href="https://www.thelcars.com">www.TheLCARS.com</a> with modifications.						
 									</p>
