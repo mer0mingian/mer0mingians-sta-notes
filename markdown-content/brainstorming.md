@@ -4,17 +4,21 @@
 
 ## Content subpages that I can generate
 
-1. Order for Mendox, what to do where --> Kerstin
-2. Content about Denosa Station, Commander Knox' Auftrag --> Kerstin
-3. Xar'Thai content --> Malax
+1. Briefing für Mendox --> Kerstin
+   1. Auftrag Cmd Knox --> Untersuchung von Schmugglerring als Mitglied von Starfleet Intelligence
+   2. Notruf
+   3. Auftrag für ihr Team
+   4. Informationen zu Denosa Station
+2. Xar'Thai content --> Malax
    1. Rasse
    2. Zivilisation, Kultur
    3. Technologie
    4. Resourcen
    5. Erstkontakt und ggw. Status
    6. Notiz über Iconianische Technologie
-4. Mendox Krankenakte --> Malax, Silke
-5. Abstract: Raumfaltung von Prof. T'Venna und Dr. D'Kor
+3. Mendox Krankenakte --> Malax, Silke
+4. Abstract: Raumfaltung von Prof. T'Venna und Dr. D'Kor
 
 ## Other content that I can generate
-5. Bild für letztes Hologramm --> Katja
+
+1. Bild für letztes Hologramm --> Katja
