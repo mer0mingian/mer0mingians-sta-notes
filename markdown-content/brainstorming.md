@@ -10,8 +10,6 @@
    3. Auftrag für ihr Team
    4. Informationen zu Denosa Station
 3. Mendox Krankenakte --> Malax, Silke
-4. Abstract: Raumfaltung von Prof. T'Venna und Dr. D'Kor
-
 
 ## Other content that I can generate
 
